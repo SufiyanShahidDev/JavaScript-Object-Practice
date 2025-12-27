@@ -68,6 +68,27 @@
 
 
 
+// let newObj = {
+//     skills : "HTML",
+//     name : "mai error donga agar tmny comma seprated nhi kia",
+//     shift : "shift hojaou"
+
+// }
+
+// let newArr = [0, 1 , 2]
+// newArr[3] = "3"
+// console.log(newArr[3])
+
+// newObj.kuchBi = "kuch bi"
+
+
+
+// newObj.skills = ["HTML","CSS", "Javascript"]   
+// console.log(newObj.shift)
+
+// console.log(newObj)
+
+
 let newObject = {
     username : "Sufiyan",
     fatherName : "Shahid",
