@@ -379,6 +379,93 @@
 //             },
 
 
+//             {
+//                 "_id": "66a11e0c1b140015881c6f36",
+//                 "name": "Bootstrap5",
+//                 "isActive": true,
+//                 "skillDescription": "",
+//                 "postCounts": 1,
+//                 "createdAt": "2024-07-24T15:30:20.166Z",
+//                 "updatedAt": "2024-07-24T15:30:20.231Z",
+//                 "__v": 0
+//             },
+//             {
+//                 "_id": "66b536a81b140015881cd964",
+//                 "name": "MaterialUI",
+//                 "isActive": true,
+//                 "skillDescription": "",
+//                 "postCounts": 0,
+//                 "createdAt": "2024-08-08T21:20:40.015Z",
+//                 "updatedAt": "2025-07-29T09:55:22.660Z",
+//                 "__v": 0
+//             },
+//             {
+//                 "_id": "6727f245e9843d2aae0d3feb",
+//                 "name": "Tailwind CSS",
+//                 "isActive": false,
+//                 "skillDescription": "",
+//                 "postCounts": 0,
+//                 "__v": 0,
+//                 "createdAt": "2024-11-03T21:59:33.051Z",
+//                 "updatedAt": "2024-11-03T21:59:33.051Z"
+//             },
+//             {
+//                 "_id": "673b39142a662b70ec762e14",
+//                 "name": "Postman",
+//                 "isActive": false,
+//                 "skillDescription": "",
+//                 "postCounts": 4,
+//                 "__v": 0,
+//                 "createdAt": "2024-11-18T12:54:44.809Z",
+//                 "updatedAt": "2025-08-28T08:43:31.622Z"
+//             },
+//             {
+//                 "_id": "67455a21edd2229a87e9defa",
+//                 "name": "NodeJS",
+//                 "isActive": false,
+//                 "skillDescription": "",
+//                 "postCounts": 2,
+//                 "createdAt": "2024-11-26T05:18:25.467Z",
+//                 "updatedAt": "2025-09-08T12:56:12.273Z",
+//                 "__v": 0
+//             },
+//             {
+//                 "_id": "67455a21edd2229a87e9df00",
+//                 "name": "ExpressJS",
+//                 "isActive": false,
+//                 "skillDescription": "",
+//                 "postCounts": 1,
+//                 "createdAt": "2024-11-26T05:18:25.785Z",
+//                 "updatedAt": "2024-11-26T05:18:25.849Z",
+//                 "__v": 0
+//             }
+//         ]
+// }
+
+
+// console.log("User Data -->",userData.education[0].degree)
+
+
+
+// let studentCard = {
+    // name :"Hasan ",
+    // email : "codermhasan@gmail.com",
+//     profileImg : "aldfjkalsdjfasdjfalsdjfasjldf",
+//     cnic : 4567816575156,
+//     getFullName : function (name, email){
+//         console.log(name, email)
+//     }
+   
+// }
+
+
+// delete studentCard.name
+
+// console.log(studentCard.getFullName("Hasan", "codermhasan@gmail.com"))
+// console.log(studentCard.name)
+
+// console.log("generateIdCard" in studentCard)
+
 let newObject = {
     username : "Sufiyan",
     fatherName : "Shahid",
