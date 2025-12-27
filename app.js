@@ -15,6 +15,59 @@
 
 // console.log(myObj.myalert());
 
+// console.log("js is running -->")
+
+// let myObj = {
+//     name : "hasan"
+// }
+
+// let myArr = ["bilal", "hasan"]
+
+// console.log(myArr[1])
+
+
+// let obj = {
+//     fullName : "Muhammad Hasan",
+//     skills : ["HTML", "CSS", "Javascript", "GitHub", "Bootstrap", "Animation"]
+// }
+
+
+// let myWindow ={
+//     myAlert : function (){
+//         alert("mai chlaa -->")
+//         return "kuch b"
+//     }
+// }
+
+// console.log(myWindow.myAlert())
+
+
+// let mobilePkg= {
+//     basic : {
+//         price : 200,
+//         duration :"monthly",
+//         data : "2GB"
+
+//     },
+//     professional :{
+//          price : 2000,
+//         duration :"monthly",
+//         data : "200GB"
+//     },
+//     ultimate : {
+//          price : 5000,
+//         duration :"monthly",
+//         data : "200GB",
+//         sharing:"5 Person"
+//     }
+// }
+
+// // console.log("Mobile Packages Obj -->",mobilePkg.basic.price)
+// alert("Mobile Packages mai sai basic package ki ye price hai:" + mobilePkg.basic.price)
+
+
+
+
 let newObject = {
     username : "Sufiyan",
     fatherName : "Shahid",
